@@ -9,7 +9,7 @@ Tools : EDA playground online + Icarus Verilog Simulator
 
 #### Phase 1 — Verilog Foundations (Days 1–21)
 
-- [ ] Day 1 – FPGA architecture, tool install
+- [x] Day 1 – FPGA architecture, tool install
 - [ ] Day 2 – module, ports, wires, regs, AND gate sim
 - [ ] Day 3 – Blocking vs non-blocking (= vs <=)
 - [ ] Day 4 – always blocks, sensitivity lists
