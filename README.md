@@ -9,7 +9,7 @@ Tools : EDA playground online + Icarus Verilog Simulator
 ### FPGA & Verilog 90-Day Bootcamp Checklist
 
 #### Week 1 – Core Verilog & Simulation
-- [ ] Day 1 – FPGA architecture, tool install (Icarus, GTKWave/EDA Playground)
+- [x] Day 1 – FPGA architecture, tool install (Icarus, GTKWave/EDA Playground)
 - [ ] Day 2 – module, ports, wires, regs, AND gate sim
 - [ ] Day 3 – Blocking vs non-blocking (= vs <=)
 - [ ] Day 4 – always blocks, sensitivity lists
