@@ -5,6 +5,18 @@ I asked ChatGPT to create a 90-day bootcamp style plan to revise FPGA. I will be
 Book: FPGA Prototyping by Verilog Examples - Pong P. Chu
 Tools : EDA playground online + Icarus Verilog Simulator
 
+### Update 26/09/2025
+Since I have landed a job as VHDL design engineer, my focus will shift towards using VHDL language. I am using GHDL tool for simulation and GTKWAVE to view the waveforms. 
+Resources:
+FPGA Prototyping by VHDL Examples - Pong P. Chu
+Onur Mutlu Lectures (YouTube) - Digital Design and Computer Architecture
+Digital Design and Computer Architecture - David Money Harris & Sarah L. Harris
+https://github.com/ghdl/ghdl?tab=readme-ov-file#getting-ghdl
+
+Other Resources:
+https://github.com/fabriziotappero/Free-Range-VHDL-book/blob/master/free_range_vhdl.pdf
+NVC is also another popular simulator
+
 
 ### FPGA & Verilog 90-Day Bootcamp Checklist
 
