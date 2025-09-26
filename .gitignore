@@ -1,0 +1,14 @@
+# Directories
+/books/
+/other/
+
+# GHDL files
+*.o
+*.cf
+
+# Simulation files
+*.exe
+
+# Waveform file
+*.vcd
+
